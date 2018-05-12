@@ -5,7 +5,7 @@
 # <bitbar.author>horimislime</bitbar.author>
 # <bitbar.author.github>horimislime</bitbar.author.github>
 # <bitbar.desc>Displays latest XBTUSD ticker on BitMEX</bitbar.desc>
-# <bitbar.image></bitbar.image>
+# <bitbar.image>https://raw.githubusercontent.com/horimislime/bitbar-plugin-bitmex-ticker/master/assets/screenshot.png</bitbar.image>
 # <bitbar.dependencies>bash<bitbar.dependencies>
 
 API_URL='https://www.bitmex.com/api/v1/quote?symbol=XBT&count=1&reverse=true'
